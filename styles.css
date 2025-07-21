@@ -28,6 +28,6 @@ img {
 .link {
     margin-bottom: 0;
 }
-.link:hover {
+.link> a:hover {
     color: #ff8000;
 }
