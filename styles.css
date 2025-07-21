@@ -1,15 +1,31 @@
 body {
     border: 2px solid black;
     font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
     border: 2px solid black;
     text-align: center;
     margin: 45px 0;
+    color: #2E7AD3;
 }
 
 .container {
     border: 2px solid black;
     width: 60%;
     margin: 0 auto;
+    padding: 25px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #104c90;
+}
+
+img {
+    width: 100%;
+}
+
+.link {
+    margin-bottom: 0;
 }
